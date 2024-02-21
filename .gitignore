@@ -1,2 +1,24 @@
-# .gitignore
+# Node.js
 node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+vendor/
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Build output
+build/
+dist/
+out/
